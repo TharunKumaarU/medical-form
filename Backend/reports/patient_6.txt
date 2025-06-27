@@ -1,0 +1,7 @@
+Patient ID: 6
+Name: Arun
+Age: 20
+Gender: male
+Symptoms: Dengue
+Doctor: Vijay
+Appointment Date: 2025-06-30

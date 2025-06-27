@@ -1,0 +1,7 @@
+Patient ID: 7
+Name: Ramesh 
+Age: 50
+Gender: male
+Symptoms: Fracture
+Doctor: Suresh
+Appointment Date: 2025-06-29
