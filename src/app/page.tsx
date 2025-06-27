@@ -1,5 +1,5 @@
-import PatientForm from "./patient-registration-form";
-import RegisteredPatient from "./RegisteredPatient";
+import PatientForm from "./patient-registration-form/page";
+import RegisteredPatient from "./registered-patient/page";
 
 export default function Page() {
   return (
